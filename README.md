@@ -6,7 +6,7 @@ It highlights trends across hospitals, patients, payers, and providers to delive
 
 ##  Files
 - `Healthcare_Dataset.xlsb` → Raw dataset used for analysis
-- `US-healthcare-powerbi-analysis.pbix` → Interactive Power BI dashboard
+- `US-healthcare-PowerBI-analytics.pbix` → Interactive Power BI dashboard
 - `images/dashboard_preview.png` → Snapshot of the dashboard
 
 ##  Key Insights
