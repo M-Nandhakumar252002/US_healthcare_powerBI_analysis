@@ -42,8 +42,4 @@ High-level trends in patient admissions, hospital capacity, payer-provider reimb
 <img width="1305" height="789" alt="preview" src="https://github.com/user-attachments/assets/cdf600d0-3e8a-4531-bb96-97d7e8832319" />
 
 
----
-
-### ⭐ Key Takeaway
-This project showcases **end-to-end healthcare analytics** — from raw Excel data → cleaned & transformed → insightful **Power BI dashboard**.
 
